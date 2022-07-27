@@ -11,7 +11,7 @@ exclude = [
 ]
 
 [tool.poetry.scripts]
-qpc = 'qpc.__main__:main'
+dsc = 'qpc.__main__:main'
 
 [tool.poetry.dependencies]
 python = "^3.7"
